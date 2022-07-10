@@ -38,8 +38,6 @@ redtake is abbreviation of **red**dit **take**s. It can be used to create videos
 
 [Post](https://www.reddit.com/r/AskReddit/comments/vus3ch/what_hits_different_at_2am)
 
-[Post](https://www.reddit.com/r/AskReddit/comments/vu6btf/you_suddenly_wake_up_a_billionaire_what_do_you_do)
-
 ## Features
 
 - [x] Choose between subreddit or subreddit thread.
