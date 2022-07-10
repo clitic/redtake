@@ -1,0 +1,48 @@
+[video]
+# Width of final video.
+width = 1920
+# Height of final video.
+height = 1080
+# Postion from x axis to crop background video.
+# It is ignored when background is set to color=.. 
+crop_x = 1166.6
+# Postion from y axis to crop background video.
+# It is ignored when background is set to color=.. 
+crop_y = 0.0
+# Background video by default solid white backgound which can be changed.
+# It can also have backgound video file path.
+background = 'color=white'
+# Trim background video starting after provided seconds.
+background_start_time = 0.0
+
+[music]
+# Background music file path.
+audio = ''
+# Volume of background music.
+volume = 0.1
+# Trim background music starting after provided seconds.
+start_time = 0.0
+
+[progress_bar]
+# Enable progress bar.
+enable = true
+# Cover progress bar from start to end.
+solid = false
+# Height of progress bar.
+height = 10
+# Color of progress bar. It can be named color like red, yellow etc. or in hex format.
+color = '#FF4500'
+
+[overlay]
+# Screenshots overlay opacity.
+opacity = 1.0
+# Screenshots overlay padding from left and right sides (in pixels).
+padding = 100
+
+[[overlay.overlays]]
+# Path of overlay image.
+image = 'images/title.png'
+# Path of audio for above image.
+audio = 'audio/title.mp3'
+# Duration of audio file.
+duration = 4.416
